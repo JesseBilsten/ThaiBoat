@@ -1,0 +1,10 @@
+{
+    "name": "ThaiboatSLO"
+  , "description": "Home cooked Thai food served with love located in San Luis Obispo, CA"
+  , "keywords": ["thai", "san luis obispo", "food", "thaiboat"]
+  , "homepage": "http://www.thaiboatslo.com"
+  , "author": "Jesse Bilsten"
+  , "license": "Apache-2.0"
+  , "target-dir": "/domains/thaiboatslo.com"
+
+}

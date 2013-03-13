@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/projects/!svn/ver/30/Thaiboat/trunk/docs/templates/pages
+END
+extend.mustache
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/projects/!svn/ver/30/Thaiboat/trunk/docs/templates/pages/extend.mustache
+END
+index.mustache
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/projects/!svn/ver/30/Thaiboat/trunk/docs/templates/pages/index.mustache
+END
+scaffolding.mustache
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/projects/!svn/ver/30/Thaiboat/trunk/docs/templates/pages/scaffolding.mustache
+END
+base-css.mustache
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/projects/!svn/ver/30/Thaiboat/trunk/docs/templates/pages/base-css.mustache
+END
+customize.mustache
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projects/!svn/ver/30/Thaiboat/trunk/docs/templates/pages/customize.mustache
+END
+components.mustache
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/projects/!svn/ver/30/Thaiboat/trunk/docs/templates/pages/components.mustache
+END
+getting-started.mustache
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/projects/!svn/ver/30/Thaiboat/trunk/docs/templates/pages/getting-started.mustache
+END
+javascript.mustache
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/projects/!svn/ver/30/Thaiboat/trunk/docs/templates/pages/javascript.mustache
+END

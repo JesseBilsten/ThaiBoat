@@ -17,6 +17,11 @@ Thanks!
 + http://twitter.com/lostangel
 + http://github.com/jessebilsten
 
+**Tony Gines**
+
++ http://twitter.com/tgines
++ http://github.com/tgines
+
 ## Copyright and license
 
 Copyright 2012 Jesse Bilsten

@@ -1,0 +1,42 @@
+@import "compass_twitter_bootstrap_awesome";
+
+body {
+  padding-top: 60px;
+  padding-bottom: 40px;
+}
+.hero-unit {
+    margin: 50px auto 0 auto;
+    width: 300px;
+}
+.sidebar-nav {
+  padding: 9px 0;
+  position:fixed;
+}
+section,
+header {
+  padding-top:60px;
+}
+#sidebar {
+  display:none;
+}
+#address address {
+  display: none;
+}
+.hot {
+  height:16px;
+  width:16px;
+  text-indent:-9999px;
+  overflow:hidden;
+  background:transparent url(../images/hot-chili-icon-16x16px.png) 0 0 no-repeat;
+  display:inline-block;
+}
+
+@media (min-width: 767px) {
+  #sidebar {
+    display: block;
+  }
+  .sidebar-nav {
+    position: fixed;
+  }
+}
+

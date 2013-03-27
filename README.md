@@ -8,6 +8,32 @@ Please submit all pull requests against *-wip branches. If your pull
 request contains JavaScript patches or features, you must include
 relevant unit tests. All HTML and CSS should conform to the Bootstrap [Code Guide](http://github.com/mdo/code-guide), maintained by [Mark Otto](http://github.com/mdo).
 
+## Dependencies
+This code base now uses [Yeoman](http://yeoman.io/) for builds, deploys
+and code management in general.  This includes the following:
+
++ Grunt
++ Node
++ Bower
++ Ruby (for Compass)
+
+Yeoman is still in beta so there may be some issues, but since this
+isn't a mission critical project, it shouldn't be an issue.
+
+## Workflow
+
++ git branch <whatever's clever>
++ mvim . (or your text editing equivalent)
++ Add/edit/remove files
++ git add .
++ git commit -m "your message here."
++ git checkout master
++ git merge <whatever's clever>
++ git push origin master
+
+I deploy the '/dist' directory to the live site, so make sure you've
+properly compiled the site before checking in code.
+
 Thanks!
 
 ## Authors
@@ -24,7 +50,7 @@ Thanks!
 
 ## Copyright and license
 
-Copyright 2012 Jesse Bilsten
+Copyright 2013 Jesse Bilsten
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this work except in compliance with the License.

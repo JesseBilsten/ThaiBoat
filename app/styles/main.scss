@@ -30,6 +30,9 @@ header {
   background:transparent url(../images/hot-chili-icon-16x16px.png) 0 0 no-repeat;
   display:inline-block;
 }
+em {
+  background:$yellow;
+}
 
 @media (min-width: 767px) {
   #sidebar {
